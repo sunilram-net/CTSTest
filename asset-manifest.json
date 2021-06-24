@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CTSTest/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/CTSTest/static/js/main.724431af.chunk.js",
+    "main.js.map": "/CTSTest/static/js/main.724431af.chunk.js.map",
+    "runtime-main.js": "/CTSTest/static/js/runtime-main.de1a95ab.js",
+    "runtime-main.js.map": "/CTSTest/static/js/runtime-main.de1a95ab.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/CTSTest/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.814ca2b2.chunk.js": "/CTSTest/static/js/2.814ca2b2.chunk.js",
+    "static/js/2.814ca2b2.chunk.js.map": "/CTSTest/static/js/2.814ca2b2.chunk.js.map",
+    "static/js/3.4da34d32.chunk.js": "/CTSTest/static/js/3.4da34d32.chunk.js",
+    "static/js/3.4da34d32.chunk.js.map": "/CTSTest/static/js/3.4da34d32.chunk.js.map",
+    "index.html": "/CTSTest/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/CTSTest/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/CTSTest/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.814ca2b2.chunk.js.LICENSE.txt": "/CTSTest/static/js/2.814ca2b2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CTSTest/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de1a95ab.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.814ca2b2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.724431af.chunk.js"
+  ]
+}
